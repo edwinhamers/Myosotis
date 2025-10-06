@@ -13,7 +13,7 @@ This models has 3 branches.
 
 For most purposes the 'master' branch is considered stable. In other words, if you check out the master branch you can expect that it builds correctly, passes all tests and you should be able to work with the end application.
 
-![stable mainline branching](/images/stable-mainline-branching-model.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/74066055-283a-4786-9cb0-efd0a3e1aef0" />
 
 ### Feature branches
 All development is done in dedicated (relatively short lived) feature branches. No development is done directly on master!. A feature branch branches off from master, and once development is finished and all the integration criteria have been met, it is merged back to the master branch.
